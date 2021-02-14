@@ -4,3 +4,4 @@ Ola, seja bem vindo ao livro de receitas.
 
 - Strogonoff de frango :chicken:
 - Pavê :custard:
+- Bolo de cenoura
